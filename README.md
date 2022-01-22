@@ -4,7 +4,7 @@ To perform EDA on mobile data of two websites using web-scraping technique.
 #### Objective:
 Find out the feasible range for buying phone based on some features such as rating,discount etc.
 
-Graph Showing the Highest Model Brand and Trending Phone Color
+##### Graph Showing the Highest Model Brand and Trending Phone Color
 
 ![Highest Sale Mobile Brand](Images/highest%20sae.PNG)
 
