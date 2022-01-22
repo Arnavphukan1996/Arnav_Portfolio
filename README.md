@@ -28,7 +28,7 @@ Find out the feasible range for buying phone based on some features such as rati
 * There are 51.9% budget, 25% expensive and 23.1% mid-range phones.
 * Most of the mobile are feasible to buy in the price range between 10k to 25k.
 
-### Project 2: Image Noise Removal
+### [Project 2: Image Noise Removal](https://github.com/Arnavphukan1996/PythonProject/tree/main/Image%20Noise%20Removal)
 #### Aim:
 To remove the noise from the given images of MNIST Dataset.
 #### Objective:
