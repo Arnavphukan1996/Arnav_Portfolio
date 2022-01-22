@@ -1,9 +1,9 @@
-### [Project 1: Flipkart Data Analysis](https://github.com/Arnavphukan1996/PythonProject/tree/main/Flipkart%20Data%20Analysis)
-##### Aim: 
+## [Project 1: Flipkart Data Analysis](https://github.com/Arnavphukan1996/PythonProject/tree/main/Flipkart%20Data%20Analysis)
+#### Aim: 
 To perform EDA on mobile data of two websites using web-scraping technique.
 ##### Objective:
 Find out the feasible range for buying phone based on some features such as rating,discount etc.
-##### EDA
+#### EDA:
 * Most costliest model sold out.
 * Most cheapest model sold out.
 * Max discounted model.
@@ -16,7 +16,7 @@ Find out the feasible range for buying phone based on some features such as rati
 * Battery vs Segments.
 * ROM vs Segments.
 * Reviews vs Segments.
-##### Conclusion:
+#### Conclusion:
 * Most sold out model is A12.
 * The maximum offer rate got by M32 model.
 * Black is the most sold out color.
@@ -28,7 +28,7 @@ Find out the feasible range for buying phone based on some features such as rati
 * There are 51.9% budget, 25% expensive and 23.1% mid-range phones.
 * Most of the mobile are feasible to buy in the price range between 10k to 25k.
 
-### [Project 2: Image Noise Removal](https://github.com/Arnavphukan1996/PythonProject/tree/main/Image%20Noise%20Removal)
+## [Project 2: Image Noise Removal](https://github.com/Arnavphukan1996/PythonProject/tree/main/Image%20Noise%20Removal)
 #### Aim:
 To remove the noise from the given images of MNIST Dataset.
 #### Objective:
