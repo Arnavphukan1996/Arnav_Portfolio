@@ -1,9 +1,9 @@
 ### [Project 1: Flipkart Data Analysis](https://github.com/Arnavphukan1996/PythonProject/tree/main/Flipkart%20Data%20Analysis)
-#### Aim: 
+##### Aim: 
 To perform EDA on mobile data of two websites using web-scraping technique.
-#### Objective:
+##### Objective:
 Find out the feasible range for buying phone based on some features such as rating,discount etc.
-#### EDA
+##### EDA
 * Most costliest model sold out.
 * Most cheapest model sold out.
 * Max discounted model.
@@ -16,9 +16,7 @@ Find out the feasible range for buying phone based on some features such as rati
 * Battery vs Segments.
 * ROM vs Segments.
 * Reviews vs Segments.
-
-
-### Conclusion:
+##### Conclusion:
 * Most sold out model is A12.
 * The maximum offer rate got by M32 model.
 * Black is the most sold out color.
