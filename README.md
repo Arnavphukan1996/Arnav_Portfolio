@@ -1,8 +1,7 @@
 ## [Project 1: Flipkart Data Analysis](https://github.com/Arnavphukan1996/PythonProject/tree/main/Flipkart%20Data%20Analysis)
-#### Aim: 
-To perform EDA on mobile data of two websites using web-scraping technique.
-#### Objective:
-Find out the feasible range for buying phone based on some features such as rating,discount etc.
+#### Project Overview:
+- To perform EDA on mobile data of two websites using web-scraping technique.
+- Find out the feasible range for buying phone based on some features such as rating,discount etc.
 
 ##### Graph Showing the Highest Model Brand and Trending Phone Color
 
